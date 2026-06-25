@@ -45,7 +45,6 @@ Where:
 | Ground Truth Image | Model Rendered View |
 | :---: | :---: |
 | <img src="nerf_synthetic/lego/test/r_0.png" width="350" alt="Ground Truth" /> | <img src="views/lego_truck.png" width="350" alt="Rendered Output" /> |
-| :---: | :---: |
 | <img src="nerf_synthetic/hotdog/test/r_0.png" width="350" alt="Ground Truth" /> | <img src="views/novel_view.png" width="350" alt="Rendered Output" /> |
 
 Due to computational limitations and constrained training durations, the model-rendered output exhibits lower fidelity and sharpness relative to the ground truth. Further training iterations and hyperparameter optimization would diminish artifacts and improve fine structural reconstruction.
