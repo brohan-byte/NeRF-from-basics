@@ -49,7 +49,3 @@ Where:
 
 Due to computational limitations and constrained training durations, the model-rendered output exhibits lower fidelity and sharpness relative to the ground truth. Further training iterations and hyperparameter optimization would diminish artifacts and improve fine structural reconstruction.
 ---
-
-## References
-
-* Mil
